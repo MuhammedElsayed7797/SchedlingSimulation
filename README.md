@@ -9,3 +9,5 @@ thirs column represent Task wait for I/O
 fourth column represent arrival time of the task
 
 for further information about what column represent read Task.pdf to know what exactly this software will simulate 
+
+result will be output in file_out.txt 
